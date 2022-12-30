@@ -1,0 +1,9 @@
+{
+    "strport": 57520,
+    "url": "pool.xdag.org:13655",
+    "tls": false,
+    "debug": true,
+    "log": "xmrig2xdag_log0.txt",
+    "testnet": false,
+    "socks5": ""
+}
